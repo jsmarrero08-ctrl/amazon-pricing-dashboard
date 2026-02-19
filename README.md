@@ -8,6 +8,7 @@ This project presents an interactive Power BI dashboard built from cleaned Amazo
 
  Dashboard Preview:
  ![Overview](screenshots/overview.png)
+ ![Overview](screenshots/overview.png)
 
  Dashboard Features:
  KPI cards (Avg Rating, Total Products, Avg Discount %, Total Reviews)
