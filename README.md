@@ -6,7 +6,11 @@ This project focuses on building a dashboard to better understand pricing and di
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](tu_imagen.png)
+### Overview
+![Overview](screenshots/overview.png)
+
+### Filtered View
+![Filtered View](screenshots/filtered_view.png)
 
 ---
 
