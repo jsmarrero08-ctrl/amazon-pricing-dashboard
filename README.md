@@ -4,6 +4,12 @@ This project focuses on building a dashboard to better understand pricing and di
 
 ---
 
+## Dashboard Preview
+
+![Dashboard Screenshot](tu_imagen.png)
+
+---
+
 ## About this project
 
 I created this dashboard using Power BI to explore how prices and discounts vary between categories. The goal was to make the data easier to understand through visuals instead of just looking at raw numbers.
@@ -31,11 +37,3 @@ I created this dashboard using Power BI to explore how prices and discounts vary
 
 - Power BI  
 - DAX  
-
----
-
-## What I learned
-
-- Building dashboards helps make data easier to understand  
-- DAX is useful for creating custom calculations  
-- Good visuals can explain data faster than tables  
