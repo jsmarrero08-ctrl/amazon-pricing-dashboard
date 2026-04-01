@@ -1,61 +1,41 @@
-# Amazon Pricing Dashboard (Power BI)
+# Amazon Pricing Dashboard
 
-Interactive Power BI dashboard analyzing Amazon pricing trends and discount behavior through KPI-driven reporting and category-level comparison.
-
----
-
-## Project Overview
-
-This project presents an interactive Power BI dashboard developed from cleaned Amazon marketplace data.  
-The objective was to visualize pricing patterns, discount behavior, and category performance using structured data modeling and DAX measures.
-
-The dashboard focuses on delivering clear, decision-oriented insights through dynamic filtering and KPI visualization.
+This project focuses on building a dashboard to better understand pricing and discount trends across different product categories.
 
 ---
 
-## Dashboard Preview
+## About this project
 
-![Overview](screenshots/overview.png)  
-![Filtered View](screenshots/filtered_view.png)
-
----
-
-## Dashboard Features
-
-- KPI cards (Average Rating, Total Products, Average Discount %, Total Reviews)  
-- Category slicer for dynamic filtering  
-- Category-level comparison of average discount percentage  
-- Clean executive-style layout for reporting clarity  
+I created this dashboard using Power BI to explore how prices and discounts vary between categories. The goal was to make the data easier to understand through visuals instead of just looking at raw numbers.
 
 ---
 
-## Key Skills Demonstrated
+## What I did
 
-- Data modeling in Power BI  
-- DAX measure creation  
-- KPI development and performance tracking  
-- Interactive dashboard design  
-- Category-level comparative analysis  
-- Business-focused data visualization  
+- Built an interactive dashboard in Power BI  
+- Added filters to explore data by category  
+- Created KPI metrics to track pricing and discounts  
+- Used DAX to calculate key values  
 
 ---
 
-## Tools Used
+## What I found
+
+- Some categories showed higher average discounts  
+- There were clear differences in pricing between product groups  
+- Visualizing the data made patterns easier to see  
+
+---
+
+## Tools used
 
 - Power BI  
 - DAX  
-- Data modeling techniques  
 
 ---
 
-## Project Structure
+## What I learned
 
-dashboard/ # Power BI (.pbix) file
-screenshots/ # Dashboard image previews
-README.md # Documentation
-
----
-
-## Business Relevance
-
-This dashboard demonstrates how pricing and discount behavior can be analyzed visually to support reporting, performance tracking, and category-level evaluation. It reflects practical business intelligence principles applied to marketplace data.
+- Building dashboards helps make data easier to understand  
+- DAX is useful for creating custom calculations  
+- Good visuals can explain data faster than tables  
