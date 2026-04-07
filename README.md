@@ -1,9 +1,3 @@
-# Amazon Pricing Dashboard
-
-This project focuses on building a dashboard to better understand pricing and discount trends across different product categories.
-
----
-
 ## Dashboard Preview
 
 ### Overview
@@ -14,30 +8,30 @@ This project focuses on building a dashboard to better understand pricing and di
 
 ---
 
-## About this project
+## Why I Built It
 
-I created this dashboard using Power BI to explore how prices and discounts vary between categories. The goal was to make the data easier to understand through visuals instead of just looking at raw numbers.
-
----
-
-## What I did
-
-- Built an interactive dashboard in Power BI  
-- Added filters to explore data by category  
-- Created KPI metrics to track pricing and discounts  
-- Used DAX to calculate key values  
+I created this dashboard to make the pricing data easier to read and compare. Instead of checking raw numbers one by one, the dashboard brings key metrics, category filters, and visuals into one place.
 
 ---
 
-## What I found
+## Dashboard Highlights
 
-- Some categories showed higher average discounts  
-- There were clear differences in pricing between product groups  
-- Visualizing the data made patterns easier to see  
+- Interactive filters to compare categories
+- KPI cards for prices and discounts
+- DAX measures for key calculations
+- Visuals that make trends easier to review
 
 ---
 
-## Tools used
+## Key Takeaways
 
-- Power BI  
-- DAX  
+- Some categories had higher average discounts
+- Prices changed across different product groups
+- The dashboard made those differences easier to spot
+
+---
+
+## Tools
+
+- Power BI
+- DAX
