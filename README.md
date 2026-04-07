@@ -1,3 +1,9 @@
+# Amazon Pricing Dashboard
+
+This project shows a Power BI dashboard built to review pricing and discount trends across Amazon product categories.
+
+---
+
 ## Dashboard Preview
 
 ### Overview
